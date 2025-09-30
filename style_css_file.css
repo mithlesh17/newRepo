@@ -1,0 +1,14 @@
+/* style.css - Basic styling for HTML page */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 25px;
+    padding: 0;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
